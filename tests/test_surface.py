@@ -1,3 +1,5 @@
+pip install touchsim
+
 import pytest
 import touchsim as ts
 from matplotlib import path
